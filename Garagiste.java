@@ -14,5 +14,14 @@ public class Garagiste{
 	public String getAdresse(){
 		return this.adresse ;
 	}
+
+	public void setNom(String nom){
+		this.nom = nom ;
+	}
+
+	public void setAdresse(String adresse){
+		this.adresse = adresse ;
+	}
+
 }
 
